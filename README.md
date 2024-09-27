@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas Ceschini! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-  Sou Lucas Ceschini, estudante de Estatística na Universidade de Brasília e bacharel em Data Science na Estácio. Atualmente estou trabalhando na área de Ciências/Engenharia de Dados voltado a previsão e riscos econômicos/financeiros, incluindo mercado de ações e criptomoedas.
+  Sou Lucas Ceschini, bacharel em Data Science e estudante de Estatística na Universidade de Brasília. Atualmente estou trabalhando na área de Ciências/Engenharia de Dados voltado a previsão e riscos econômicos/financeiros, incluindo mercado de ações e criptomoedas.
   Não muito diferente de muitos brasileiros, as vezes me aprofundo em estudos esportivos e sociais, buscando agregar valor a sociedade como um todo.
 
 ## Ferramentas e Tecnologias
