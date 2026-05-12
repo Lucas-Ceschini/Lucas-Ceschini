@@ -1,38 +1,166 @@
-# Olá, me chamo Lucas Ceschini! 
-## Bem vindo ao meu perfil GitHub 👋
+<div align="center">
 
-  Sou Lucas Ceschini, formado em Data Science e estudante de Estatística na Universidade de Brasília. Atualmente estou trabalhando na área de Ciências/Engenharia de Dados voltado a previsão e riscos econômicos/financeiros, incluindo mercado de ações e criptomoedas.
-  Não muito diferente de muitos brasileiros, as vezes me aprofundo em estudos esportivos e sociais, buscando agregar valor a sociedade como um todo.
+# Hi, I'm Lucas Ceschini 👋  
 
-## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading = 'lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="40" height="40"  /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" />
-<!-- Os links foram tirados da devicom -->
-
-## Contatos
-
-<div>
-<a href = "mailto:lucasceschine@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/lucasceschini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
-<div>
-<a href="https://github.com/Lucas-Ceschini">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ceschini&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ceschini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>  
 
+---
 
-<!--
-**Lucas-Ceschini/Lucas-Ceschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">Data Science | Statistics | Econometrics | Financial Risk | Forecasting</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Data Science graduate and Statistics student at the :contentReference[oaicite:0]{index=0}.
+
+</div>
+
+---
+
+### 🧠 About Me (Data-Focused Profile)
+
+<p align="justify">
+I work at the intersection of <b>Data Science</b>, <b>Statistical Modeling</b>, <b>Econometrics</b>, and <b>Machine Learning</b>, with a strong focus on financial and economic systems.
+My main applications include <b>risk modeling</b>, <b>forecasting systems</b>, and <b>data-driven decision making</b> for complex environments such as financial markets and macroeconomic indicators.
+</p>
+
+<p align="justify">
+I also develop simulation-based models and probabilistic systems applied to sports analytics and structured social data.
+</p>
+
+---
+
+## 🚀 Featured Projects (Portfolio Core)
+
+<table>
+<tr>
+<td width="33%">
+
+### 📊 World Cup Simulation
+Monte Carlo simulation of tournament outcomes using probabilistic modeling.
+
+<b>Stack:</b><br>
+Python · NumPy · Pandas · Plotly  
+
+<b>Focus:</b><br>
+- Stochastic simulation  
+- Probability modeling  
+- Forecasting systems  
+
+</td>
+
+<td width="33%">
+
+### 🏠 Real Estate Fund Classification
+ML model for classification and risk profiling of financial assets (FIIs).
+
+<b>Stack:</b><br>
+Python · Scikit-learn · XGBoost  
+
+<b>Focus:</b><br>
+- Feature engineering  
+- Financial classification  
+- Risk analysis  
+
+</td>
+
+<td width="33%">
+
+### 📈 Financial Risk Models
+Econometric and statistical forecasting models for financial markets.
+
+<b>Stack:</b><br>
+R · Python · SQL · Quarto  
+
+<b>Focus:</b><br>
+- Time series  
+- Volatility modeling  
+- Economic forecasting  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ceschini&layout=compact&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ceschini&show_icons=true&theme=dracula&count_private=true"/>
+
+</div>
+
+---
+
+## 🎯 Core Expertise
+
+<div align="center">
+
+| Data Science | Statistics | Econometrics | Machine Learning | Risk Analysis |
+|--------------|------------|--------------|------------------|--------------|
+| Forecasting | Time Series | Simulation | Quant Modeling | Data Engineering |
+
+</div>
+
+---
+
+## 🌍 Languages
+
+<p align="center">
+Portuguese (Native) • English (Intermediate) • Spanish (Basic-Intermediate) • Italian (Basic-Intermediate)
+</p>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:lucasceschine@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="www.linkedin.com/in/lucasceschini">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+## 📌 Current Focus
+
+<div align="center">
+
+Financial Risk Modeling • Econometrics • Machine Learning • Time Series Forecasting • Quantitative Systems
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Career Objective
+
+<b>Data Scientist | Risk Analyst | Quantitative Analyst</b>
+
+Focused on financial systems, predictive modeling, and applied statistical intelligence.
+
+</div>
